@@ -1,6 +1,6 @@
 # DSA_Pathfinding_Algorithm_Visualizer
 
-The Pathfinding Algorithm Visualizer is a web-based tool that helps users visualize different pathfinding algorithms in a 30x30 grid environment. This interactive tool animates the execution of various search algorithms in real time, allowing users to see how each algorithm explores the grid and reaches its goal.
+The Pathfinding Algorithm Visualizer is a web-based tool built using Java that helps users visualize different pathfinding algorithms in a 30x30 grid environment. This interactive tool animates the execution of various search algorithms in real time, allowing users to see how each algorithm explores the grid and reaches its goal.
 
 
 # Algorithms Used
