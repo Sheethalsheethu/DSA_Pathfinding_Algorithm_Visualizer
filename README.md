@@ -17,3 +17,16 @@ Uses a heuristic to always move towards the goal, prioritizing nodes that appear
 
 ***A Search (A-Star)**:**
 Combines the path cost and heuristic to efficiently find the shortest path. This algorithm is widely used for its accuracy and speed in various applications.
+
+
+The project is built using the following technologies:
+
+**Frontend:**
+
+HTML: Structure of the web page.
+CSS: Styling and layout design.
+JavaScript: Logic implementation and algorithm execution.
+
+**Backend:**
+
+Spring Boot: Used for the backend implementation, providing REST APIs and server-side logic.
