@@ -6,16 +6,16 @@ The Pathfinding Algorithm Visualizer is a web-based tool that helps users visual
 # Algorithms Used
 This project implements the following pathfinding algorithms:
 
-**Breadth-First Search (BFS):**
+**1) Breadth-First Search (BFS):**
 Explores all neighbor nodes level by level, guaranteeing the shortest path in an unweighted grid.
 
-**Depth-First Search (DFS):**
+**2) Depth-First Search (DFS):**
 Explores as far as possible along each branch before backtracking, which is more efficient in certain scenarios but may not always find the shortest path.
 
-**Greedy Best-First Search:**
+**3) Greedy Best-First Search:**
 Uses a heuristic to always move towards the goal, prioritizing nodes that appear to be closer to the target.
 
-***A Search (A-Star)**:**
+***4) A Search (A-Star)**:**
 Combines the path cost and heuristic to efficiently find the shortest path. This algorithm is widely used for its accuracy and speed in various applications.
 
 
@@ -30,6 +30,19 @@ JavaScript: Logic implementation and algorithm execution.
 **Backend:**
 
 Spring Boot: Used for the backend implementation, providing REST APIs and server-side logic.
+
+
+![Screenshot 2025-01-28 234037](https://github.com/user-attachments/assets/361acf87-2530-4b91-935a-9e842e83c519)
+![Screenshot 2025-01-28 234047](https://github.com/user-attachments/assets/364cf722-aed0-4e22-8a51-0ad937ce228e)
+![Screenshot 2025-01-28 234103](https://github.com/user-attachments/assets/7f048b16-1992-44f8-afc9-58c040a85f20)
+![Screenshot 2025-01-28 234114](https://github.com/user-attachments/assets/6ad9d2b9-69e0-4574-b0fc-01af05c0a063)
+![Screenshot 2025-01-28 234125](https://github.com/user-attachments/assets/a7d53342-b878-44b6-a441-655b1751aee4)
+![Screenshot 2025-01-28 234138](https://github.com/user-attachments/assets/206f1455-7173-4a45-ad7b-7998bb116a45)
+![Screenshot 2025-01-28 234202](https://github.com/user-attachments/assets/6808f153-3fa5-4664-ae77-7522158ee54f)
+![Screenshot 2025-01-28 234211](https://github.com/user-attachments/assets/f7be4990-846a-4a31-9a10-b4629ee21ba8)
+
+
+
 
 
 # How to Run the Project
