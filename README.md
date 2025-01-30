@@ -4,7 +4,7 @@ The Pathfinding Algorithm Visualizer is a web-based tool built using Java that h
 
 
 # Algorithms Used
-This project implements the following pathfinding algorithms:
+This project implements the following Tree & Graph algorithms:
 
 **1) Breadth-First Search (BFS):**
 Explores all neighbor nodes level by level, guaranteeing the shortest path in an unweighted grid.
